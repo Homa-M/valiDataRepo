@@ -1,0 +1,13 @@
+[
+  {
+    "Field": "Age",
+    "Type": "int",
+    "Min": 18,
+    "Max": 65
+  },
+  {
+    "Field": "Email",
+    "Type": "string",
+    "Regex": "^[^@]+@[^@]+\\.[^@]+$"
+  }
+]
